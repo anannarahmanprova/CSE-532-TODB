@@ -1,0 +1,2062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dblpperson name="John L. Hennessy" pid="h/JohnLHennessy" n="113">
+<person key="homepages/h/JohnLHennessy" mdate="2022-02-15">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<note type="affiliation">Stanford University, CA, USA</note>
+<note type="award" label="2017">Turing Award</note>
+<note type="award" label="2012">IEEE Medal of Honor</note>
+<note type="award" label="2001">Eckert-Mauchly Award</note>
+<note type="award" label="2000">IEEE John von Neumann Medal</note>
+<note type="award" label="1994">IEEE Emanuel R. Piore Award</note>
+<url>http://www.stanford.edu/~hennessy/</url>
+<url>http://president.stanford.edu/</url>
+<url>https://dl.acm.org/profile/81100207767</url>
+<url>https://zbmath.org/authors/?q=ai:hennessy.john-leroy</url>
+<url>https://mathgenealogy.org/id.php?id=40909</url>
+<url>https://en.wikipedia.org/wiki/John_L._Hennessy</url>
+<url>https://orcid.org/0000-0003-0356-1041</url>
+<url>https://www.wikidata.org/entity/Q92854</url>
+<url>http://isni.org/isni/0000000110361254</url>
+<url>https://viaf.org/viaf/4986532</url>
+<url>https://id.loc.gov/authorities/names/n89106247</url>
+<url>https://d-nb.info/gnd/114326436</url>
+<url>http://id.worldcat.org/fast/1493629</url>
+<url>http://www.computerhistory.org/fellowawards/hall/john-hennessy/</url>
+<url>https://amturing.acm.org/award_winners/hennessy_1426931.cfm</url>
+</person>
+<r>
+<article key="journals/micro/Hennessy21" mdate="2021-12-15">
+<author orcid="0000-0003-0356-1041" pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The 50 Year History of the Microprocessor as Five Technology Eras.</title>
+<pages>20-21</pages>
+<year>2021</year>
+<volume>41</volume>
+<journal>IEEE Micro</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MM.2021.3112301</ee>
+<url>db/journals/micro/micro41.html#Hennessy21</url>
+</article>
+</r>
+<r>
+<article key="journals/cacm/HennessyP19" mdate="2023-04-13">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>A new golden age for computer architecture.</title>
+<pages>48-60</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3282307</ee>
+<ee>https://www.wikidata.org/entity/Q61859137</ee>
+<url>db/journals/cacm/cacm62.html#HennessyP19</url>
+</article>
+</r>
+<r>
+<article key="journals/micro/HillMRTH19" mdate="2023-08-28">
+<author pid="h/MarkDHill">Mark D. Hill</author>
+<author pid="237/5318">Jon Masters</author>
+<author pid="12/6848">Parthasarathy Ranganathan</author>
+<author pid="91/4811">Paul Turner</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>On the Spectre and Meltdown Processor Security Vulnerabilities.</title>
+<pages>9-19</pages>
+<year>2019</year>
+<volume>39</volume>
+<journal>IEEE Micro</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MM.2019.2897677</ee>
+<ee>https://www.wikidata.org/entity/Q114255932</ee>
+<url>db/journals/micro/micro39.html#HillMRTH19</url>
+</article>
+</r>
+<r>
+<article key="journals/micro/MutluBGJHPRPHMS16" mdate="2017-05-20">
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="118/8172">Rich Belgard</author>
+<author pid="g/ThomasRGross">Thomas R. Gross</author>
+<author pid="j/NormanPJouppi">Norman P. Jouppi</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="57/5741">Steven A. Przybylski</author>
+<author pid="r/ChrisRowen">Chris Rowen</author>
+<author pid="p/YaleNPatt">Yale N. Patt</author>
+<author pid="03/4630">Wen-mei W. Hwu</author>
+<author pid="25/4491">Stephen W. Melvin</author>
+<author pid="00/5562">Michael Shebanow</author>
+<author pid="57/3918">Tse-Yu Yeh</author>
+<author pid="169/8646">Andy Wolfe</author>
+<title>Common Bonds: MIPS, HPS, Two-Level Branch Prediction, and Compressed Code RISC Processor.</title>
+<pages>70-85</pages>
+<year>2016</year>
+<volume>36</volume>
+<journal>IEEE Micro</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MM.2016.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2016.66</ee>
+<url>db/journals/micro/micro36.html#MutluBGJHPRPHMS16</url>
+</article>
+</r>
+<r>
+<book key="books/daglib/0028244" mdate="2023-04-13">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>Computer Architecture - A Quantitative Approach, 5th Edition.</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>2012</year>
+<isbn>978-0-12-383872-8</isbn>
+<isbn>9789381269220</isbn>
+</book>
+</r>
+<r>
+<book key="books/daglib/0028245" mdate="2023-04-13">
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Computer Organization and Design - The Hardware / Software Interface (Revised 4th Edition).</title>
+<publisher>Academic Press</publisher>
+<series>The Morgan Kaufmann Series in Computer Architecture and Design</series>
+<year>2012</year>
+<isbn>978-0-12-374750-1</isbn>
+<ee>http://www.elsevierdirect.com/product.jsp?isbn=9780123747501</ee>
+</book>
+</r>
+<r>
+<book key="books/daglib/0020380" mdate="2023-04-13">
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Computer organization and design - the hardware / software interface (3. ed.).</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>2007</year>
+<isbn>978-0-12-370606-5</isbn>
+</book>
+</r>
+<r>
+<book key="books/daglib/0023143" mdate="2023-04-13">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>Computer Architecture - A Quantitative Approach (4. ed.).</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>2007</year>
+<isbn>978-0-12-370490-0</isbn>
+<ee>http://www.elsevier.com/wps/find/bookdescription.cws_home/708922/description</ee>
+</book>
+</r>
+<r>
+<book key="books/daglib/0014063" mdate="2023-04-13">
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Rechnerorganisation und -entwurf - die Hardware / Software-Schnittstelle (3. Aufl.).</title>
+<pages>I-XIX, 1-593</pages>
+<publisher>Elsevier Spektrum Akadem. Verl.</publisher>
+<year>2005</year>
+<isbn>978-3-8274-1595-0</isbn>
+</book>
+</r>
+<r>
+<book key="books/daglib/0006883" mdate="2023-04-13">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>Computer architecture - a quantitative approach, 3rd Edition.</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>2003</year>
+<isbn>978-1-55860-596-1</isbn>
+</book>
+</r>
+<r>
+<article key="journals/tc/ChaudhuriHHSRH03" mdate="2020-01-15">
+<author pid="34/3071">Mainak Chaudhuri</author>
+<author pid="06/3163">Mark A. Heinrich</author>
+<author pid="72/385">Chris Holt</author>
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="82/5663">Edward Rothberg</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Latency, Occupancy, and Bandwidth in DSM Multiprocessors: A Performance Evaluation.</title>
+<pages>862-880</pages>
+<year>2003</year>
+<volume>52</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TC.2003.1214336</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2003.1214336</ee>
+<url>db/journals/tc/tc52.html#ChaudhuriHHSRH03</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/sigmetrics/OfeltH00" mdate="2021-07-30">
+<author pid="39/857">David Ofelt</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Efficient performance prediction for modern microprocessors.</title>
+<pages>229-239</pages>
+<year>2000</year>
+<crossref>conf/sigmetrics/2000</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/339331.339419</ee>
+<ee>https://doi.org/10.1145/345063.339419</ee>
+<url>db/conf/sigmetrics/sigmetrics2000.html#OfeltH00</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/computer/Hennessy99" mdate="2020-08-12">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The Future of Systems Research.</title>
+<pages>27-33</pages>
+<year>1999</year>
+<volume>32</volume>
+<journal>Computer</journal>
+<number>8</number>
+<url>db/journals/computer/computer32.html#Hennessy99</url>
+<ee>https://doi.org/10.1109/2.781631</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.781631</ee>
+</article>
+</r>
+<r>
+<article key="journals/pieee/HennessyHG99" mdate="2022-02-28">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="06/3163">Mark A. Heinrich</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<title>Cache-coherent distributed shared memory: perspectives on its development and future challenges.</title>
+<pages>418-429</pages>
+<year>1999</year>
+<volume>87</volume>
+<journal>Proc. IEEE</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/5.747863</ee>
+<url>db/journals/pieee/pieee87.html#HennessyHG99</url>
+</article>
+</r>
+<r>
+<article key="journals/tc/HeinrichSHG99" mdate="2020-01-15">
+<author pid="06/3163">Mark A. Heinrich</author>
+<author pid="24/53">Vijayaraghavan Soundararajan</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<title>A Quantitative Analysis of the Performance and Scalability of Distributed Shared Memory.</title>
+<pages>205-217</pages>
+<year>1999</year>
+<volume>48</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/12.752662</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/12.752662</ee>
+<url>db/journals/tc/tc48.html#HeinrichSHG99</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/isca/Hennessy98" mdate="2018-11-06">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Retrospective: Evaluation of Directory Dchemes for Cache Coherence.</title>
+<pages>61-62</pages>
+<year>1998</year>
+<crossref>conf/isca/1998reprints</crossref>
+<booktitle>25 Years ISCA: Retrospectives and Reprints</booktitle>
+<ee>https://doi.org/10.1145/285930.285955</ee>
+<url>db/conf/isca/reprints98.html#Hennessy98</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/SoundararajanHVGGH98" mdate="2023-03-24">
+<author pid="24/53">Vijayaraghavan Soundararajan</author>
+<author pid="06/3163">Mark A. Heinrich</author>
+<author pid="68/2333">Ben Verghese</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Flexible Use of Memory for Replication/Migration in Cache-Coherent DSM Multiprocessors.</title>
+<pages>342-355</pages>
+<year>1998</year>
+<crossref>conf/isca/1998</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.1998.694793</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1998.694793</ee>
+<ee>https://dl.acm.org/citation.cfm?id=279403</ee>
+<url>db/conf/isca/isca98.html#SoundararajanHVGGH98</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/AgarwalSHH98" mdate="2018-11-06">
+<author pid="a/AAgarwal">Anant Agarwal</author>
+<author pid="48/2706">Richard Simoni</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<title>An Evaluation of Directory Schemes for Cache Coherence.</title>
+<pages>353-362</pages>
+<year>1998</year>
+<crossref>conf/isca/1998reprints</crossref>
+<booktitle>25 Years ISCA: Retrospectives and Reprints</booktitle>
+<ee>https://doi.org/10.1145/285930.285995</ee>
+<url>db/conf/isca/reprints98.html#AgarwalSHH98</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/GharachorlooLLGGH98" mdate="2018-11-06">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors.</title>
+<pages>376-387</pages>
+<year>1998</year>
+<crossref>conf/isca/1998reprints</crossref>
+<booktitle>25 Years ISCA: Retrospectives and Reprints</booktitle>
+<ee>https://doi.org/10.1145/285930.285997</ee>
+<url>db/conf/isca/reprints98.html#GharachorlooLLGGH98</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/LenoskiLJNSGH98" mdate="2018-11-06">
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="49/239">Truman Joe</author>
+<author pid="89/6688">David Nakahira</author>
+<author pid="02/4761">Luis Stevens</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The DASH Prototype: Implementation and Performance.</title>
+<pages>418-429</pages>
+<year>1998</year>
+<crossref>conf/isca/1998reprints</crossref>
+<booktitle>25 Years ISCA: Retrospectives and Reprints</booktitle>
+<ee>https://doi.org/10.1145/285930.286001</ee>
+<url>db/conf/isca/reprints98.html#LenoskiLJNSGH98</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/KuskinOHHS98" mdate="2020-01-15">
+<author pid="46/262">Jeffrey Kuskin</author>
+<author pid="39/857">David Ofelt</author>
+<author pid="06/3163">Mark A. Heinrich</author>
+<author pid="73/4137">John Heinlein</author>
+<author pid="48/2706">Richard Simoni</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="18/2307">John Chapin</author>
+<author pid="89/6688">David Nakahira</author>
+<author pid="50/835">Joel Baxter</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="r/MendelRosenblum">Mendel Rosenblum</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The Stanford FLASH Multiprocessor.</title>
+<pages>485-496</pages>
+<year>1998</year>
+<crossref>conf/isca/1998reprints</crossref>
+<booktitle>25 Years ISCA: Retrospectives and Reprints</booktitle>
+<ee>https://doi.org/10.1145/285930.286007</ee>
+<url>db/conf/isca/reprints98.html#KuskinOHHS98</url>
+</inproceedings>
+</r>
+<r>
+<book key="books/mk/PattersonH97" mdate="2023-04-13">
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Computer Organization  &amp; Design: The Hardware/Software Interface, Second Edition</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>1997</year>
+<isbn>1-55860-428-6</isbn>
+</book>
+</r>
+<r>
+<article key="journals/cacm/KennedyBCHVS97" mdate="2018-11-06">
+<author pid="k/KenKennedy">Ken Kennedy</author>
+<author pid="84/1656">Charles F. Bender</author>
+<author pid="93/1466">John W. D. Connolly</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="v/MaryKVernon">Mary K. Vernon</author>
+<author pid="60/1648">Larry Smarr</author>
+<title>A Nationwide Parallel Computing Environment.</title>
+<pages>62-72</pages>
+<year>1997</year>
+<volume>40</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm40.html#KennedyBCHVS97</url>
+<ee>https://doi.org/10.1145/265684.265693</ee>
+</article>
+</r>
+<r>
+<article key="journals/pieee/HeinrichOHH97" mdate="2022-04-04">
+<author pid="06/3163">Mark A. Heinrich</author>
+<author pid="39/857">David Ofelt</author>
+<author pid="h/MarkHorowitz">Mark A. Horowitz</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Hardware/software co-design of the Stanford FLASH multiprocessor.</title>
+<pages>455-466</pages>
+<year>1997</year>
+<volume>85</volume>
+<journal>Proc. IEEE</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/5.558720</ee>
+<url>db/journals/pieee/pieee85.html#HeinrichOHH97</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/ipps/ThekkathSSJH97" mdate="2023-03-24">
+<author pid="83/6639">Radhika Thekkath</author>
+<author pid="05/4815">Amit Pal Singh</author>
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="99/4860">Susan John</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>An Evaluation of a Commercial CC-NUMA Architecture - The CONVEX Exemplar SPP1200.</title>
+<pages>8-17</pages>
+<year>1997</year>
+<crossref>conf/ipps/1997</crossref>
+<booktitle>IPPS</booktitle>
+<ee>https://doi.org/10.1109/IPPS.1997.580831</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPPS.1997.580831</ee>
+<url>db/conf/ipps/ipps1997.html#ThekkathSSJH97</url>
+</inproceedings>
+</r>
+<r>
+<book key="books/mk/HennessyP96" mdate="2023-04-13">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>Computer Architecture: A Quantitative Approach, 2nd Edition</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1996</year>
+<isbn>1-55860-329-8</isbn>
+</book>
+</r>
+<r>
+<inproceedings key="conf/asplos/ErlichsonNCH96" mdate="2021-07-07">
+<author pid="35/4583">Andrew Erlichson</author>
+<author pid="77/2508">Neal Nuckolls</author>
+<author pid="45/3078">Greg Chesson</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>SoftFLASH: Analyzing the Performance of Clustered Distributed Virtual Shared Memory.</title>
+<pages>210-220</pages>
+<year>1996</year>
+<crossref>conf/asplos/1996</crossref>
+<booktitle>ASPLOS</booktitle>
+<url>db/conf/asplos/asplos96.html#ErlichsonNCH96</url>
+<ee>https://doi.org/10.1145/237090.237187</ee>
+<ee>https://doi.org/10.1145/248209.237187</ee>
+<ee>https://doi.org/10.1145/248208.237187</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/HoltSH96" mdate="2023-03-24">
+<author pid="72/385">Chris Holt</author>
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Application and Architectural Bottlenecks in Large Scale Distributed Shared Memory Machines.</title>
+<pages>134-145</pages>
+<year>1996</year>
+<crossref>conf/isca/1996</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/232973.232988</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1996.10013</ee>
+<url>db/conf/isca/isca96.html#HoltSH96</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/wcae/Hennessy96" mdate="2018-11-06">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The computer architecture curriculum at Stanford: challenges and approaches.</title>
+<pages>1</pages>
+<year>1996</year>
+<booktitle>WCAE@HPCA</booktitle>
+<ee>https://doi.org/10.1145/1275152.1275153</ee>
+<crossref>conf/wcae/1996</crossref>
+<url>db/conf/wcae/wcae1996.html#Hennessy96</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/ijpp/MaydanHL95" mdate="2020-04-01">
+<author pid="16/6427">Dror E. Maydan</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<title>Effectiveness of data dependence analysis.</title>
+<pages>63-81</pages>
+<year>1995</year>
+<volume>23</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/BF02577784</ee>
+<url>db/journals/ijpp/ijpp23.html#MaydanHL95</url>
+</article>
+</r>
+<r>
+<article key="journals/jpdc/SinghHTGH95" mdate="2020-02-22">
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="72/385">Chris Holt</author>
+<author pid="04/1874">Takashi Totsuka</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Load Balancing and Data locality in Adaptive Hierarchical N-Body Methods: Barnes-Hut, Fast Multipole, and Rasiosity.</title>
+<pages>118-141</pages>
+<year>1995</year>
+<volume>27</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>2</number>
+<url>db/journals/jpdc/jpdc27.html#SinghHTGH95</url>
+<ee>https://doi.org/10.1006/jpdc.1995.1077</ee>
+</article>
+</r>
+<r>
+<article key="journals/tocs/SingHG95" mdate="2018-11-06">
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<title>Implications of Hierarchical N-Body Methods for Multiprocessor Architectures</title>
+<journal>ACM Trans. Comput. Syst.</journal>
+<volume>13</volume>
+<number>2</number>
+<year>1995</year>
+<pages>141-202</pages>
+<url>db/journals/tocs/tocs13.html#SingHG95</url>
+<ee>https://doi.org/10.1145/201045.201050</ee>
+</article>
+</r>
+<r>
+<inproceedings key="conf/ppsc/Hennessy95" mdate="2017-03-20">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Position Paper.</title>
+<pages>868-869</pages>
+<year>1995</year>
+<crossref>conf/ppsc/1995</crossref>
+<booktitle>PPSC</booktitle>
+<url>db/conf/ppsc/ppsc1995.html#Hennessy95</url>
+</inproceedings>
+</r>
+<r>
+<book key="books/daglib/0074423" mdate="2023-04-13">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>Rechnerarchitektur - Analyse, Entwurf, Implementierung, Bewertung.</title>
+<publisher>Vieweg</publisher>
+<year>1994</year>
+<series>Vieweg Lehrbuch Informatik</series>
+<isbn>978-3-528-05173-0</isbn>
+</book>
+</r>
+<r>
+<book key="books/mk/PattersonH94" mdate="2023-04-13">
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Computer Organization &amp; Design: The Hardware/Software Interface</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>1994</year>
+<isbn>1-55860-282-8</isbn>
+</book>
+</r>
+<r>
+<article key="journals/computer/ChandraGH94" mdate="2020-08-12">
+<author pid="04/4464">Rohit Chandra</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>COOL: An Object-Based Language for Parallel Programming.</title>
+<pages>13-26</pages>
+<year>1994</year>
+<volume>27</volume>
+<journal>Computer</journal>
+<number>8</number>
+<url>db/journals/computer/computer27.html#ChandraGH94</url>
+<ee>https://doi.org/10.1109/2.303616</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.303616</ee>
+</article>
+</r>
+<r>
+<article key="journals/sigplan/WilsonFWAATLTHLH94" mdate="2023-10-22">
+<author pid="w/RobertPWilson">Robert P. Wilson</author>
+<author pid="24/5746">Robert S. French</author>
+<author pid="87/3307">Christopher S. Wilson</author>
+<author pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="a/JenniferAnnMAnderson">Jennifer-Ann M. Anderson</author>
+<author pid="43/169">Steven W. K. Tjiang</author>
+<author pid="l/ShihWeiLiao">Shih-Wei Liao</author>
+<author pid="t/ChauWenTseng">Chau-Wen Tseng</author>
+<author orcid="0000-0002-3058-7573" pid="h/MaryWHall">Mary W. Hall</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>SUIF: An Infrastructure for Research on Parallelizing and Optimizing Compilers.</title>
+<pages>31-37</pages>
+<year>1994</year>
+<volume>29</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<url>db/journals/sigplan/sigplan29.html#WilsonFWAATLTHLH94</url>
+<ee>https://doi.org/10.1145/193209.193217</ee>
+<ee>https://www.wikidata.org/entity/Q121824301</ee>
+</article>
+</r>
+<r>
+<article key="journals/tc/TorrellasLH94" mdate="2017-05-20">
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>False Sharing ans Spatial Locality in Multiprocessor Caches.</title>
+<pages>651-663</pages>
+<year>1994</year>
+<volume>43</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>6</number>
+<url>db/journals/tc/tc43.html#TorrellasLH94</url>
+<ee>https://doi.org/10.1109/12.286299</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/12.286299</ee>
+</article>
+</r>
+<r>
+<inproceedings key="conf/asplos/WooSH94" mdate="2021-07-07">
+<author pid="23/3976">Steven Cameron Woo</author>
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The Performance Advantages of Integrating Block Data Trabsfer in Cache-Coherent Multiprocessors.</title>
+<pages>219-229</pages>
+<year>1994</year>
+<crossref>conf/asplos/1994</crossref>
+<booktitle>ASPLOS</booktitle>
+<url>db/conf/asplos/asplos94.html#WooSH94</url>
+<ee>https://doi.org/10.1145/195473.195547</ee>
+<ee>https://doi.org/10.1145/195470.195547</ee>
+<ee>https://doi.org/10.1145/381792.195547</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/asplos/HeinrichKOHBSSGNHGRH94" mdate="2021-07-07">
+<author pid="06/3163">Mark A. Heinrich</author>
+<author pid="46/262">Jeffrey Kuskin</author>
+<author pid="39/857">David Ofelt</author>
+<author pid="73/4137">John Heinlein</author>
+<author pid="50/835">Joel Baxter</author>
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="48/2706">Richard Simoni</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="89/6688">David Nakahira</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="r/MendelRosenblum">Mendel Rosenblum</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The Performance Impact of Flexibility in the Stanford FLASH Multiprocessor.</title>
+<pages>274-285</pages>
+<year>1994</year>
+<crossref>conf/asplos/1994</crossref>
+<booktitle>ASPLOS</booktitle>
+<url>db/conf/asplos/asplos94.html#HeinrichKOHBSSGNHGRH94</url>
+<ee>https://doi.org/10.1145/195473.195569</ee>
+<ee>https://doi.org/10.1145/195470.195569</ee>
+<ee>https://doi.org/10.1145/381792.195569</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/JoeH94" mdate="2023-03-24">
+<author pid="49/239">Truman Joe</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Evaluating the Memory Overhead Required for COMA Architectures.</title>
+<pages>82-93</pages>
+<year>1994</year>
+<crossref>conf/isca/1994</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca94.html#JoeH94</url>
+<ee>https://doi.org/10.1109/ISCA.1994.288159</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1994.288159</ee>
+<ee>https://dl.acm.org/citation.cfm?id=192019</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/KuskinOHHSGCNBHGRH94" mdate="2023-03-24">
+<author pid="46/262">Jeffrey Kuskin</author>
+<author pid="39/857">David Ofelt</author>
+<author pid="06/3163">Mark A. Heinrich</author>
+<author pid="73/4137">John Heinlein</author>
+<author pid="48/2706">Richard Simoni</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="18/2307">John Chapin</author>
+<author pid="89/6688">David Nakahira</author>
+<author pid="50/835">Joel Baxter</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="r/MendelRosenblum">Mendel Rosenblum</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The Stanford FLASH Multiprocessor.</title>
+<pages>302-313</pages>
+<year>1994</year>
+<crossref>conf/isca/1994</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca94.html#KuskinOHHSGCNBHGRH94</url>
+<ee>https://doi.org/10.1109/ISCA.1994.288140</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1994.288140</ee>
+<ee>https://dl.acm.org/citation.cfm?id=192056</ee>
+</inproceedings>
+</r>
+<r>
+<article key="journals/computer/SinghHG93" mdate="2020-08-12">
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<title>Scaling Parallel Programs for Multiprocessors: Methodology and Examples.</title>
+<pages>42-50</pages>
+<year>1993</year>
+<volume>26</volume>
+<journal>Computer</journal>
+<number>7</number>
+<url>db/journals/computer/computer26.html#SinghHG93</url>
+<ee>https://doi.org/10.1109/MC.1993.274941</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.1993.274941</ee>
+</article>
+</r>
+<r>
+<article key="journals/spe/SchnorfGH93" mdate="2020-04-09">
+<author pid="60/2799">Peter Schnorf</author>
+<author pid="07/6911">Mahadevan Ganapathi</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Compile-time Copy Elimination.</title>
+<pages>1175-1200</pages>
+<year>1993</year>
+<volume>23</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe23.html#SchnorfGH93</url>
+<ee>https://doi.org/10.1002/spe.4380231102</ee>
+</article>
+</r>
+<r>
+<article key="journals/tpds/GoldbergH93" mdate="2020-10-02">
+<author pid="86/4835">Aaron J. Goldberg</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Mtool: An Integrated System for Performance Debugging Shared Memory Multiprocessor Applications.</title>
+<pages>28-40</pages>
+<year>1993</year>
+<volume>4</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/71.205651</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/71.205651</ee>
+<url>db/journals/tpds/tpds4.html#GoldbergH93</url>
+</article>
+</r>
+<r>
+<article key="journals/tpds/LenoskiLJNSGH93" mdate="2020-10-02">
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="49/239">Truman Joe</author>
+<author pid="89/6688">David Nakahira</author>
+<author pid="02/4761">Luis Stevens</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The DASH Prototype: Logic Overhead and Performance.</title>
+<pages>41-61</pages>
+<year>1993</year>
+<volume>4</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/71.205652</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/71.205652</ee>
+<url>db/journals/tpds/tpds4.html#LenoskiLJNSGH93</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/ppopp/ChandraGH93" mdate="2022-06-12">
+<author pid="04/4464">Rohit Chandra</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Data Locality and Load Balancing in COOL.</title>
+<pages>249-259</pages>
+<year>1993</year>
+<crossref>conf/ppopp/1993</crossref>
+<booktitle>PPoPP</booktitle>
+<url>db/conf/ppopp/ppopp93.html#ChandraGH93</url>
+<ee>https://doi.org/10.1145/155332.155358</ee>
+<ee>https://doi.org/10.1145/173284.155358</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sc/SinghHHG93" mdate="2023-03-24">
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="72/385">Chris Holt</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<title>A parallel adaptive fast multipole method.</title>
+<pages>54-65</pages>
+<year>1993</year>
+<crossref>conf/sc/1993</crossref>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/169627.169651</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SUPERC.1993.1263424</ee>
+<url>db/conf/sc/sc1993.html#SinghHHG93</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sc/SinghJGH93" mdate="2023-03-24">
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="49/239">Truman Joe</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>An empirical comparison of the Kendall Square Research KSR-1 and Stanford DASH multiprocessors.</title>
+<pages>214-225</pages>
+<year>1993</year>
+<crossref>conf/sc/1993</crossref>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/169627.169699</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SUPERC.1993.1263448</ee>
+<url>db/conf/sc/sc1993.html#SinghJGH93</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sigmetrics/GoldschmidtH93" mdate="2021-07-30">
+<author pid="64/6128">Stephen R. Goldschmidt</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The Accuracy of Trace-Driven Simulations of Multiprocessors.</title>
+<pages>146-157</pages>
+<year>1993</year>
+<crossref>conf/sigmetrics/1993</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics93.html#GoldschmidtH93</url>
+<ee>https://doi.org/10.1145/166955.167001</ee>
+<ee>https://doi.org/10.1145/166962.167001</ee>
+</inproceedings>
+</r>
+<r>
+<article key="journals/computer/LenoskiLGWGHHL92" mdate="2020-08-12">
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="21/2538">Wolf-Dietrich Weber</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<title>The Stanford Dash Multiprocessor.</title>
+<pages>63-79</pages>
+<year>1992</year>
+<volume>25</volume>
+<journal>Computer</journal>
+<number>3</number>
+<url>db/journals/computer/computer25.html#LenoskiLGWGHHL92</url>
+<ee>https://doi.org/10.1109/2.121510</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.121510</ee>
+<ee>https://www.wikidata.org/entity/Q60530672</ee>
+</article>
+</r>
+<r>
+<article key="journals/jpdc/SinghH92" mdate="2020-02-22">
+<author pid="s/JaswinderPalSingh">Jaswinder Pal Singh</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Finding and Exploiting Parallelism in an Ocean Simulation Program: Experience, Results, and Implications.</title>
+<pages>27-48</pages>
+<year>1992</year>
+<volume>15</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>1</number>
+<url>db/journals/jpdc/jpdc15.html#SinghH92</url>
+<ee>https://doi.org/10.1016/0743-7315(92)90056-S</ee>
+</article>
+</r>
+<r>
+<article key="journals/jpdc/GharachorlooAGHH92" mdate="2020-02-22">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="97/4181">Sarita V. Adve</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="h/MarkDHill">Mark D. Hill</author>
+<title>Programming for Different Memory Consistency Models.</title>
+<pages>399-407</pages>
+<year>1992</year>
+<volume>15</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>4</number>
+<url>db/journals/jpdc/jpdc15.html#GharachorlooAGHH92</url>
+<ee>https://doi.org/10.1016/0743-7315(92)90052-O</ee>
+</article>
+</r>
+<r>
+<inproceedings key="conf/asplos/TorrellasGH92" mdate="2021-07-07">
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Characterizing the Caching and Synchronization Performance of a Multiprocessor Operating System.</title>
+<pages>162-174</pages>
+<year>1992</year>
+<crossref>conf/asplos/1992</crossref>
+<booktitle>ASPLOS</booktitle>
+<url>db/conf/asplos/asplos92.html#TorrellasGH92</url>
+<ee>https://doi.org/10.1145/143365.143506</ee>
+<ee>https://doi.org/10.1145/143371.143506</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/GharachorlooGH92" mdate="2023-03-24">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Hiding Memory Latency using Dynamic Scheduling in Shared-Memory Multiprocessors.</title>
+<pages>22-33</pages>
+<year>1992</year>
+<crossref>conf/isca/1992</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca92.html#GharachorlooGH92</url>
+<ee>https://doi.org/10.1145/139669.139678</ee>
+<ee>https://doi.org/10.1109/ISCA.1992.753301</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1992.753301</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/LenoskiLJNSGH92" mdate="2023-03-24">
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="49/239">Truman Joe</author>
+<author pid="89/6688">David Nakahira</author>
+<author pid="02/4761">Luis Stevens</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The DASH Prototype: Implementation and Performance.</title>
+<pages>92-103</pages>
+<year>1992</year>
+<crossref>conf/isca/1992</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca92.html#LenoskiLJNSGH92</url>
+<ee>https://doi.org/10.1145/139669.139706</ee>
+<ee>https://doi.org/10.1109/ISCA.1992.753307</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1992.753307</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pldi/TjiangH92" mdate="2021-07-09">
+<author pid="43/169">Steven W. K. Tjiang</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Sharlit - A Tool for Building Optimizers.</title>
+<pages>82-93</pages>
+<year>1992</year>
+<crossref>conf/pldi/1992</crossref>
+<booktitle>PLDI</booktitle>
+<url>db/conf/pldi/pldi92.html#TjiangH92</url>
+<ee>https://doi.org/10.1145/143095.143120</ee>
+<ee>https://doi.org/10.1145/143103.143120</ee>
+</inproceedings>
+</r>
+<r>
+<article key="journals/computer/HennessyJ91" mdate="2020-08-12">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="j/NormanPJouppi">Norman P. Jouppi</author>
+<title>Computer Technology and Architecture: An Evolving Interaction.</title>
+<pages>18-29</pages>
+<year>1991</year>
+<volume>24</volume>
+<journal>Computer</journal>
+<number>9</number>
+<url>db/journals/computer/computer24.html#HennessyJ91</url>
+<ee>https://doi.org/10.1109/2.84896</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.84896</ee>
+</article>
+</r>
+<r>
+<inproceedings key="conf/asplos/GharachorlooGH91" mdate="2021-07-07">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Performance Evaluation of Memory Consistency Models for Shared Memory Multiprocessors.</title>
+<pages>245-257</pages>
+<year>1991</year>
+<crossref>conf/asplos/1991</crossref>
+<booktitle>ASPLOS</booktitle>
+<url>db/conf/asplos/asplos91.html#GharachorlooGH91</url>
+<ee>https://doi.org/10.1145/106972.106997</ee>
+<ee>https://doi.org/10.1145/106973.106997</ee>
+<ee>https://doi.org/10.1145/106974.106997</ee>
+<ee>https://doi.org/10.1145/106975.106997</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icpp/DavisGH91" mdate="2014-07-28">
+<author pid="47/6847">Helen Davis</author>
+<author pid="64/6128">Stephen R. Goldschmidt</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Multiprocessor Simulation and Tracing Using Tango.</title>
+<pages>99-107</pages>
+<year>1991</year>
+<crossref>conf/icpp/1991-2</crossref>
+<booktitle>ICPP (2)</booktitle>
+<url>db/conf/icpp/icpp1991-2.html#DavisGH91</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icpp/GoldbergH91" mdate="2014-07-28">
+<author pid="86/4835">Aaron J. Goldberg</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>MTOOL: A Method for Isolating Memory Bottlenecks in Shared Memory Multiprocessor Programs.</title>
+<pages>251-257</pages>
+<year>1991</year>
+<crossref>conf/icpp/1991-2</crossref>
+<booktitle>ICPP (2)</booktitle>
+<url>db/conf/icpp/icpp1991-2.html#GoldbergH91</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icpp/GharachorlooGH91" mdate="2014-07-28">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Two Techniques to Enhance the Performance of Memory Consistency Models.</title>
+<pages>355-364</pages>
+<year>1991</year>
+<crossref>conf/icpp/1991-1</crossref>
+<booktitle>ICPP (1)</booktitle>
+<url>db/conf/icpp/icpp1991-1.html#GharachorlooGH91</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/GuptaHGMW91" mdate="2018-11-06">
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="21/2538">Wolf-Dietrich Weber</author>
+<title>Comparative Evaluation of Latency Reducing and Tolerating Techniques.</title>
+<pages>254-263</pages>
+<year>1991</year>
+<crossref>conf/isca/1991</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/115952.115978</ee>
+<ee>https://doi.org/10.1109/ISCA.1991.1021618</ee>
+<url>db/conf/isca/isca91.html#GuptaHGMW91</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/lcpc/TjiangWLPH91" mdate="2017-05-17">
+<author pid="43/169">Steven W. K. Tjiang</author>
+<author pid="02/1821">Michael E. Wolf</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<author pid="05/894">K. Pieper</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Integrating Scalar Optimization and Parallelization.</title>
+<pages>137-151</pages>
+<year>1991</year>
+<crossref>conf/lcpc/1991</crossref>
+<booktitle>LCPC</booktitle>
+<url>db/conf/lcpc/lcpc1991.html#TjiangWLPH91</url>
+<ee>https://doi.org/10.1007/BFb0038662</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pldi/MaydanHL91" mdate="2021-07-09">
+<author pid="16/6427">Dror E. Maydan</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<title>Efficient and Exact Data Dependence Analysis.</title>
+<pages>1-14</pages>
+<year>1991</year>
+<crossref>conf/pldi/1991</crossref>
+<booktitle>PLDI</booktitle>
+<url>db/conf/pldi/pldi91.html#MaydanHL91</url>
+<ee>https://doi.org/10.1145/113445.113447</ee>
+<ee>https://doi.org/10.1145/113446.113447</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sc/GoldbergH91" mdate="2018-11-06">
+<author pid="86/4835">Aaron J. Goldberg</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Performance debugging shared memory multiprocessor programs with MTOOL.</title>
+<pages>481-490</pages>
+<year>1991</year>
+<crossref>conf/sc/1991</crossref>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/125826.126075</ee>
+<url>db/conf/sc/sc1991.html#GoldbergH91</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sigmetrics/GoldbergH91" mdate="2021-07-30">
+<author pid="86/4835">Aaron J. Goldberg</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>MTOOL: A Method for Detecting Memory Bottlenecks.</title>
+<pages>210-211</pages>
+<year>1991</year>
+<crossref>conf/sigmetrics/1991</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics91.html#GoldbergH91</url>
+<ee>https://doi.org/10.1145/107971.107994</ee>
+<ee>https://doi.org/10.1145/107972.107994</ee>
+</inproceedings>
+</r>
+<r>
+<book key="books/mk/PattersonH90" mdate="2023-04-13">
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Computer Architecture: A Quantitative Approach.</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1990</year>
+<isbn>1-55860-188-0</isbn>
+</book>
+</r>
+<r>
+<article key="journals/tc/BrandmanOH90" mdate="2017-05-20">
+<author pid="69/5324">Yigal Brandman</author>
+<author pid="o/AlonOrlitsky">Alon Orlitsky</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>A Spectral Lower Bound Techniqye for the Size of Decision Trees and Two Level AND/OR Circuits.</title>
+<pages>282-287</pages>
+<year>1990</year>
+<volume>39</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>2</number>
+<url>db/journals/tc/tc39.html#BrandmanOH90</url>
+<ee>https://doi.org/10.1109/12.45216</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/12.45216</ee>
+</article>
+</r>
+<r>
+<article key="journals/toplas/ChowH90" mdate="2018-11-06">
+<author pid="46/2338">Fred C. Chow</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The Priority-Based Coloring Approach to Register Allocation.</title>
+<pages>501-536</pages>
+<year>1990</year>
+<volume>12</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/88616.88621</ee>
+<url>db/journals/toplas/toplas12.html#ChowH90</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/compcon/LenoskiGLGHHL90" mdate="2023-03-15">
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="65/336">James Laudon</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="l/MonicaSLam">Monica Lam 0001</author>
+<title>Design of scalable shared-memory multiprocessors: the DASH approach.</title>
+<pages>62-67</pages>
+<year>1990</year>
+<booktitle>Compcon</booktitle>
+<ee>https://doi.org/10.1109/CMPCON.1990.63654</ee>
+<crossref>conf/compcon/1990</crossref>
+<url>db/conf/compcon/compcon90.html#LenoskiGLGHHL90</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icpp/TorrelasH90" mdate="2004-12-23">
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Estimating the Performance Advantages of Relaxing Consistency in a Shared Memory Multiprocessor.</title>
+<pages>26-34</pages>
+<year>1990</year>
+<crossref>conf/icpp/1990-1</crossref>
+<booktitle>ICPP (1)</booktitle>
+<url>db/conf/icpp/icpp90-1.html#TorrelasH90</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icpp/TorrellasLH90" mdate="2002-10-30">
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Share Data Placement Optimizations to Reduce Multiprocessor Cache Miss Rates.</title>
+<pages>266-270</pages>
+<year>1990</year>
+<crossref>conf/icpp/1990-2</crossref>
+<booktitle>ICPP (2)</booktitle>
+<url>db/conf/icpp/icpp90-2.html#TorrellasLH90</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/GharachorlooLLGGH90" mdate="2023-03-24">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors.</title>
+<pages>15-26</pages>
+<year>1990</year>
+<crossref>conf/isca/1990</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca90.html#GharachorlooLLGGH90</url>
+<ee>https://doi.org/10.1145/325164.325102</ee>
+<ee>https://doi.org/10.1145/325096.325102</ee>
+<ee>https://doi.org/10.1109/ISCA.1990.134503</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1990.134503</ee>
+<ee>https://www.wikidata.org/entity/Q60530669</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/LenoskiLGGH90" mdate="2023-03-24">
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>The Directory-Based Cache Coherence Protocol for the DASH Multiprocessor.</title>
+<pages>148-159</pages>
+<year>1990</year>
+<crossref>conf/isca/1990</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca90.html#LenoskiLGGH90</url>
+<ee>https://doi.org/10.1145/325164.325132</ee>
+<ee>https://doi.org/10.1145/325096.325132</ee>
+<ee>https://doi.org/10.1109/ISCA.1990.134520</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1990.134520</ee>
+<ee>https://www.wikidata.org/entity/Q60530670</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sigmetrics/TorrellasHW90" mdate="2021-07-30">
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="45/2262">Thierry Weil</author>
+<title>Analysis of Critical Architectural and Program Parameters in a Hierarchical Shared Memory Multiprocessor.</title>
+<pages>163-172</pages>
+<year>1990</year>
+<crossref>conf/sigmetrics/1990</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics90.html#TorrellasHW90</url>
+<ee>https://doi.org/10.1145/98457.98754</ee>
+<ee>https://doi.org/10.1145/98460.98754</ee>
+</inproceedings>
+</r>
+<r>
+<article key="journals/tocs/AgarwalHH89" mdate="2018-11-06">
+<author pid="a/AAgarwal">Anant Agarwal</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>An Analytical Cache Model.</title>
+<pages>184-215</pages>
+<year>1989</year>
+<volume>7</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/63404.63407</ee>
+<url>db/journals/tocs/tocs7.html#AgarwalHH89</url>
+</article>
+</r>
+<r>
+<article key="journals/toplas/SteenkisteH89" mdate="2023-08-06">
+<author orcid="0000-0001-7079-8212" pid="s/PeterSteenkiste">Peter Steenkiste</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>A Simple Interprocedural Register Allocation Algorithm and Its Effectiveness for Lisp.</title>
+<pages>1-32</pages>
+<year>1989</year>
+<volume>11</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/59287.59289</ee>
+<url>db/journals/toplas/toplas11.html#SteenkisteH89</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/isca/PrzybylskiHH89" mdate="2023-03-24">
+<author pid="57/5741">Steven A. Przybylski</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Characteristics of Performance-Optimal Multi-Level Cache Hierarchies.</title>
+<pages>114-121</pages>
+<year>1989</year>
+<crossref>conf/isca/1989</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/74925.74939</ee>
+<ee>https://doi.org/10.1145/74926.74939</ee>
+<ee>https://doi.org/10.1109/ISCA.1989.714545</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1989.714545</ee>
+<ee>https://www.wikidata.org/entity/Q61068006</ee>
+<url>db/conf/isca/isca89.html#PrzybylskiHH89</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/popl/GopinathH89" mdate="2018-11-06">
+<author pid="48/2735">K. Gopinath</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Copy Elimination in Functional Languages.</title>
+<pages>303-314</pages>
+<year>1989</year>
+<crossref>conf/popl/1989</crossref>
+<booktitle>POPL</booktitle>
+<url>db/conf/popl/popl89.html#GopinathH89</url>
+<ee>https://doi.org/10.1145/75277.75304</ee>
+</inproceedings>
+</r>
+<r>
+<proceedings key="conf/asplos/1989" mdate="2021-07-07">
+<editor pid="73/2231">Joel S. Emer</editor>
+<editor pid="h/JohnLHennessy">John L. Hennessy</editor>
+<title>ASPLOS-III Proceedings - Third International Conference on Architectural Support for Programming Languages and Operating Systems, Boston, Massachusetts, USA, April 3-6, 1989.</title>
+<booktitle>ASPLOS</booktitle>
+<isbn>0-89791-300-0</isbn>
+<publisher>ACM Press</publisher>
+<year>1989</year>
+<ee>https://doi.org/10.1145/70082</ee>
+<ee>https://doi.org/10.1145/68182</ee>
+<url>db/conf/asplos/asplos89.html</url>
+<note>SIGARCH Computer Architecture News 17(2), SIGOPS Operating System Review 23(Special Issue April 1989), and SIGPLAN Notices 24(Special Issue May 1989)</note>
+</proceedings>
+</r>
+<r>
+<article key="journals/computer/SteenkisteH88" mdate="2023-08-06">
+<author orcid="0000-0001-7079-8212" pid="s/PeterSteenkiste">Peter Steenkiste</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Lisp on a Reduced-Instruction-Set Processor: Characterization and Optimization.</title>
+<pages>34-45</pages>
+<year>1988</year>
+<volume>21</volume>
+<journal>Computer</journal>
+<number>7</number>
+<url>db/journals/computer/computer21.html#SteenkisteH88</url>
+<ee>https://doi.org/10.1109/2.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.67</ee>
+</article>
+</r>
+<r>
+<article key="journals/tocs/GrossHPR88" mdate="2018-11-06">
+<author pid="g/ThomasRGross">Thomas R. Gross</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="57/5741">Steven A. Przybylski</author>
+<author pid="r/ChrisRowen">Christopher Rowen</author>
+<title>Measurement and Evaluation of the MIPS Architecture and Processor.</title>
+<pages>229-257</pages>
+<year>1988</year>
+<volume>6</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/45059.45060</ee>
+<url>db/journals/tocs/tocs6.html#GrossHPR88</url>
+</article>
+</r>
+<r>
+<article key="journals/tocs/AgarwalHH88" mdate="2018-11-06">
+<author pid="a/AAgarwal">Anant Agarwal</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<title>Cache Performance of Operating System and Multiprogramming Workloads.</title>
+<pages>393-431</pages>
+<year>1988</year>
+<volume>6</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/48012.48037</ee>
+<url>db/journals/tocs/tocs6.html#AgarwalHH88</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/isca/AgarwalSHH88" mdate="2021-07-08">
+<author pid="a/AAgarwal">Anant Agarwal</author>
+<author pid="48/2706">Richard Simoni</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<title>An Evaluation of Directory Schemes for Cache Coherence.</title>
+<pages>280-289</pages>
+<year>1988</year>
+<crossref>conf/isca/1988</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca88.html#AgarwalSHH88</url>
+<ee>https://doi.org/10.1109/ISCA.1988.5238</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1988.5238</ee>
+<ee>https://doi.org/10.1145/633625.52432</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/PrzybylskiHH88" mdate="2021-07-08">
+<author pid="57/5741">Steven A. Przybylski</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Performance Tradeoffs in Cache Design.</title>
+<pages>290-298</pages>
+<year>1988</year>
+<crossref>conf/isca/1988</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca88.html#PrzybylskiHH88</url>
+<ee>https://doi.org/10.1109/ISCA.1988.5239</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.1988.5239</ee>
+<ee>https://doi.org/10.1145/633625.52433</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/lfp/GharachorlooSH88" mdate="2019-08-03">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="s/VivekSarkar">Vivek Sarkar</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>A Simple and Efficient Implmentation Approach for Single Assignment Languages.</title>
+<pages>259-268</pages>
+<year>1988</year>
+<crossref>conf/lfp/1988</crossref>
+<booktitle>LISP and Functional Programming</booktitle>
+<ee>https://doi.org/10.1145/62678.62718</ee>
+<url>db/conf/lfp/lfp1988.html#GharachorlooSH88</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ppopp/DavisH88" mdate="2022-06-12">
+<author pid="47/6847">Helen Davis</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Characterizing the Synchronization Behavior of Parallel Programs.</title>
+<pages>198-211</pages>
+<year>1988</year>
+<crossref>conf/ppopp/1988</crossref>
+<booktitle>PPOPP/PPEALS</booktitle>
+<url>db/conf/ppopp/ppopp88.html#DavisH88</url>
+<ee>https://doi.org/10.1145/62115.62134</ee>
+<ee>https://doi.org/10.1145/62116.62134</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/asplos/SteenkisteH87" mdate="2023-08-06">
+<author orcid="0000-0001-7079-8212" pid="s/PeterSteenkiste">Peter Steenkiste</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Tags and Type Checking in Lisp: Hardware and Software Approaches.</title>
+<pages>50-59</pages>
+<year>1987</year>
+<crossref>conf/asplos/1987</crossref>
+<booktitle>ASPLOS</booktitle>
+<url>db/conf/asplos/asplos87.html#SteenkisteH87</url>
+<ee>https://doi.org/10.1145/36206.36183</ee>
+<ee>https://doi.org/10.1145/36205.36183</ee>
+<ee>https://doi.org/10.1145/36204.36183</ee>
+<ee>https://doi.org/10.1145/36177.36183</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isca/McFarlingH86" mdate="2021-07-09">
+<author pid="64/3382">Scott McFarling</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Reducing the Cost of Branches.</title>
+<pages>396-403</pages>
+<year>1986</year>
+<crossref>conf/isca/1986</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca86.html#McFarlingH86</url>
+<ee>https://doi.org/10.1145/17356.17402</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/lfp/SteenkisteH86" mdate="2023-08-06">
+<author orcid="0000-0001-7079-8212" pid="s/PeterSteenkiste">Peter Steenkiste</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>LISP on a Reduced-Instruction-Set-Processor.</title>
+<pages>192-201</pages>
+<year>1986</year>
+<crossref>conf/lfp/1986</crossref>
+<booktitle>LISP and Functional Programming</booktitle>
+<url>db/conf/lfp/lfp1986.html#SteenkisteH86</url>
+<ee>https://doi.org/10.1145/319838.319862</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/lfp/SarkarH86" mdate="2021-08-06">
+<author pid="s/VivekSarkar">Vivek Sarkar</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Partitioning Parallel Programs for Macro-Dataflow.</title>
+<pages>202-211</pages>
+<year>1986</year>
+<crossref>conf/lfp/1986</crossref>
+<booktitle>LISP and Functional Programming</booktitle>
+<url>db/conf/lfp/lfp1986.html#SarkarH86</url>
+<ee>https://doi.org/10.1145/319838.319863</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sigplan/SarkarH86" mdate="2021-07-12">
+<author pid="s/VivekSarkar">Vivek Sarkar</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Compile-time partitioning and scheduling of parallel programs.</title>
+<pages>17-26</pages>
+<year>1986</year>
+<crossref>conf/sigplan/1986</crossref>
+<booktitle>SIGPLAN Symposium on Compiler Construction</booktitle>
+<ee>https://doi.org/10.1145/12276.13313</ee>
+<ee>https://doi.org/10.1145/13310.13313</ee>
+<url>db/conf/sigplan/sigplan1986.html#SarkarH86</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/dac/RowenH85" mdate="2018-11-06">
+<author pid="r/ChrisRowen">Christopher Rowen</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>SWAMI: a flexible logic implementation system.</title>
+<pages>169-175</pages>
+<year>1985</year>
+<crossref>conf/dac/1985</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/317825.317853</ee>
+<url>db/conf/dac/dac1985.html#RowenH85</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/tc/Hennessy84" mdate="2020-08-13">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>VLSI Processor Architecture.</title>
+<pages>1221-1246</pages>
+<year>1984</year>
+<volume>33</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>12</number>
+<url>db/journals/tc/tc33.html#Hennessy84</url>
+<ee>https://doi.org/10.1109/TC.1984.1676395</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.1984.1676395</ee>
+<ee>https://www.wikidata.org/entity/Q97343604</ee>
+</article>
+</r>
+<r>
+<inproceedings key="conf/pldi/ChowH84" mdate="2018-11-06">
+<author pid="46/2338">Fred C. Chow</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Register allocation by priority-based coloring (with retrospective)</title>
+<pages>91-103</pages>
+<year>1984</year>
+<crossref>conf/pldi/2004best</crossref>
+<booktitle>Best of PLDI</booktitle>
+<ee>https://doi.org/10.1145/989393.989406</ee>
+<url>db/conf/pldi/pldi2004best.html#ChowH84</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sigplan/ChowH84" mdate="2021-07-09">
+<author pid="46/2338">Fred C. Chow</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Register allocation by priority-based coloring.</title>
+<pages>222-232</pages>
+<year>1984</year>
+<crossref>conf/sigplan/1984</crossref>
+<booktitle>SIGPLAN Symposium on Compiler Construction</booktitle>
+<ee>https://doi.org/10.1145/502874.502896</ee>
+<ee>https://doi.org/10.1145/502949.502896</ee>
+<url>db/conf/sigplan/sigplan1984.html#ChowH84</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/toplas/HennessyG83" mdate="2018-11-14">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="g/ThomasRGross">Thomas R. Gross</author>
+<title>Postpass Code Optimization of Pipeline Constraints.</title>
+<pages>422-448</pages>
+<year>1983</year>
+<volume>5</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2166.357217</ee>
+<ee>https://www.wikidata.org/entity/Q50822499</ee>
+<url>db/journals/toplas/toplas5.html#HennessyG83</url>
+</article>
+</r>
+<r>
+<article key="journals/csur/GanapathiFH82" mdate="2019-06-02">
+<author pid="07/6911">Mahadevan Ganapathi</author>
+<author pid="f/CNFischer">Charles N. Fischer</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Retargetable Compiler Code Generation.</title>
+<pages>573-592</pages>
+<year>1982</year>
+<volume>14</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>4</number>
+<url>db/journals/csur/csur14.html#GanapathiFH82</url>
+<ee>https://doi.org/10.1145/356893.356897</ee>
+<ee>https://www.wikidata.org/entity/Q60305019</ee>
+<note>comments: ACM Computing Surveys 15(3): 279-284 (1983)</note>
+</article>
+</r>
+<r>
+<article key="journals/spe/HennessyE82" mdate="2020-04-09">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="76/450">Hilding Elmquist</author>
+<title>The Design and Implementation of Parametric Types in Pascal.</title>
+<pages>169-184</pages>
+<year>1982</year>
+<volume>12</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe12.html#HennessyE82</url>
+<ee>https://doi.org/10.1002/spe.4380120207</ee>
+</article>
+</r>
+<r>
+<article key="journals/spe/HennessyM82" mdate="2020-04-09">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="72/549">Noah Mendelsohn</author>
+<title>Compilation of the Pascal Case Statement.</title>
+<pages>879-882</pages>
+<year>1982</year>
+<volume>12</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe12.html#HennessyM82</url>
+<ee>https://doi.org/10.1002/spe.4380120907</ee>
+</article>
+</r>
+<r>
+<article key="journals/toplas/Hennessy82" mdate="2018-11-06">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Symbolic Debugging of Optimized Code.</title>
+<pages>323-344</pages>
+<year>1982</year>
+<volume>4</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/357172.357173</ee>
+<url>db/journals/toplas/toplas4.html#Hennessy82</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/asplos/HennessyJBGG82" mdate="2023-08-28">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="j/NormanPJouppi">Norman P. Jouppi</author>
+<author pid="32/4888">Forest Baskett</author>
+<author pid="g/ThomasRGross">Thomas R. Gross</author>
+<author pid="65/3353">John Gill</author>
+<title>Hardware/Software Tradeoffs for Increased Performance.</title>
+<pages>2-11</pages>
+<year>1982</year>
+<crossref>conf/asplos/1982</crossref>
+<booktitle>ASPLOS</booktitle>
+<url>db/conf/asplos/asplos82.html#HennessyJBGG82</url>
+<ee>https://doi.org/10.1145/800050.801820</ee>
+<ee>https://doi.org/10.1145/960120.801820</ee>
+<ee>https://doi.org/10.1145/964750.801820</ee>
+<ee>https://www.wikidata.org/entity/Q113762437</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/compcon/HennessyJGBSGRL82" mdate="2021-08-08">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="j/NormanPJouppi">Norman P. Jouppi</author>
+<author pid="65/3353">John Gill</author>
+<author pid="32/4888">Forest Baskett</author>
+<author pid="95/2985">Alex Strong</author>
+<author pid="g/ThomasRGross">Thomas R. Gross</author>
+<author pid="r/ChrisRowen">Christopher Rowen</author>
+<author pid="09/3281">Judson S. Leonard</author>
+<title>The MIPS Machine.</title>
+<pages>2-7</pages>
+<year>1982</year>
+<crossref>conf/compcon/1982</crossref>
+<booktitle>COMPCON</booktitle>
+<url>db/conf/compcon/compcon1982.html#HennessyJGBSGRL82</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/micro/HennessyJPRGBG82" mdate="2014-09-22">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="j/NormanPJouppi">Norman P. Jouppi</author>
+<author pid="57/5741">Steven A. Przybylski</author>
+<author pid="r/ChrisRowen">Christopher Rowen</author>
+<author pid="g/ThomasRGross">Thomas R. Gross</author>
+<author pid="32/4888">Forest Baskett</author>
+<author pid="65/3353">John Gill</author>
+<title>MIPS: A microprocessor architecture.</title>
+<pages>17-22</pages>
+<year>1982</year>
+<booktitle>MICRO</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=800930</ee>
+<crossref>conf/micro/1982</crossref>
+<url>db/conf/micro/micro1982.html#HennessyJPRGBG82</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/micro/GrossH82" mdate="2014-09-22">
+<author pid="g/ThomasRGross">Thomas R. Gross</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Optimizing delayed branches.</title>
+<pages>114-120</pages>
+<year>1982</year>
+<booktitle>MICRO</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=800941</ee>
+<crossref>conf/micro/1982</crossref>
+<url>db/conf/micro/micro1982.html#GrossH82</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/popl/HennessyG82" mdate="2018-11-06">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="g/ThomasRGross">Thomas R. Gross</author>
+<title>Code Generation and Reorganization in the Presence of Pipeline Constraints.</title>
+<pages>120-127</pages>
+<year>1982</year>
+<crossref>conf/popl/82</crossref>
+<booktitle>POPL</booktitle>
+<url>db/conf/popl/popl82.html#HennessyG82</url>
+<cdrom>POPL/00001537.PDF</cdrom>
+<ee>https://doi.org/10.1145/582153.582166</ee>
+</inproceedings>
+</r>
+<r>
+<article key="journals/acta/HennesyK81" mdate="2020-06-21">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<author pid="k/RBKieburtz">Richard B. Kieburtz</author>
+<title>The Formal Definition of a Real-Time Language.</title>
+<pages>309-345</pages>
+<year>1981</year>
+<volume>16</volume>
+<journal>Acta Informatica</journal>
+<url>db/journals/acta/acta16.html#HennesyK81</url>
+<ee>https://doi.org/10.1007/BF00289309</ee>
+</article>
+</r>
+<r>
+<inproceedings key="conf/popl/Hennessy81" mdate="2018-11-06">
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Program Optimization and Exception Handling.</title>
+<pages>200-206</pages>
+<year>1981</year>
+<crossref>conf/popl/81</crossref>
+<booktitle>POPL</booktitle>
+<url>db/conf/popl/popl81.html#Hennessy81</url>
+<ee>https://doi.org/10.1145/567532.567554</ee>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sosp/CarrH81" mdate="2018-11-06">
+<author pid="84/317">Richard W. Carr</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>WSClock - A Simple and Effective Algorithm for Virtual Memory Management.</title>
+<pages>87-95</pages>
+<year>1981</year>
+<crossref>conf/sosp/1981</crossref>
+<booktitle>SOSP</booktitle>
+<url>db/conf/sosp/sosp81.html#CarrH81</url>
+<ee>https://doi.org/10.1145/800216.806596</ee>
+</inproceedings>
+</r>
+<r>
+<article key="journals/tc/FlynnH80" mdate="2017-05-20">
+<author pid="f/MichaelJFlynn">Michael J. Flynn</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Parallelism and Representation Problems in Distributed Systems.</title>
+<pages>1060-1086</pages>
+<year>1980</year>
+<volume>29</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>12</number>
+<url>db/journals/tc/tc29.html#FlynnH80</url>
+<ee>https://doi.org/10.1109/TC.1980.1675513</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.1980.1675513</ee>
+</article>
+</r>
+<r>
+<inproceedings key="conf/dac/CarmodyBMWH80" mdate="2018-11-06">
+<author pid="43/10969">P. Carmody</author>
+<author pid="42/908">A. M. Barone</author>
+<author pid="38/5254">J. K. Morrell</author>
+<author pid="52/10971">A. Weiner</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>An Interactive Graphics System for custom design.</title>
+<pages>430-439</pages>
+<year>1980</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/800139.804566</ee>
+<crossref>conf/dac/1980</crossref>
+<url>db/conf/dac/dac1980.html#CarmodyBMWH80</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/sigsmall/KieburtzH76" mdate="2021-08-31">
+<author pid="k/RBKieburtz">Richard B. Kieburtz</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>TOMAL-a high-level programming language for microprocessor process control applications.</title>
+<pages>127-134</pages>
+<year>1976</year>
+<booktitle>SIGMINI</booktitle>
+<ee>https://doi.org/10.1145/800236.807106</ee>
+<ee>https://doi.org/10.1145/872740.807106</ee>
+<crossref>conf/sigsmall/1976</crossref>
+<url>db/conf/sigsmall/sigmini1976.html#KieburtzH76</url>
+</inproceedings>
+</r>
+<coauthors n="100" nc="4">
+<co c="0">
+<na f="a/Adve:Sarita_V=" pid="97/4181">Sarita V. Adve</na>
+</co>
+<co c="0">
+<na f="a/Agarwal:Anant" pid="a/AAgarwal">Anant Agarwal</na>
+</co>
+<co c="0">
+<na f="a/Amarasinghe:Saman_P=" pid="a/SPAmarasinghe">Saman P. Amarasinghe</na>
+</co>
+<co c="0">
+<na f="a/Anderson:Jennifer=Ann_M=" pid="a/JenniferAnnMAnderson">Jennifer-Ann M. Anderson</na>
+</co>
+<co c="1">
+<na f="b/Barone:A=_M=" pid="42/908">A. M. Barone</na>
+</co>
+<co c="0">
+<na f="b/Baskett:Forest" pid="32/4888">Forest Baskett</na>
+</co>
+<co c="0">
+<na f="b/Baxter:Joel" pid="50/835">Joel Baxter</na>
+</co>
+<co c="0" n="2">
+<na f="b/Belgard:Richard_A=" pid="118/8172">Richard A. Belgard</na>
+<na>Rich Belgard</na>
+</co>
+<co c="0">
+<na f="b/Bender:Charles_F=" pid="84/1656">Charles F. Bender</na>
+</co>
+<co c="3">
+<na f="b/Brandman:Yigal" pid="69/5324">Yigal Brandman</na>
+</co>
+<co c="1">
+<na f="c/Carmody:P=" pid="43/10969">P. Carmody</na>
+</co>
+<co c="-1">
+<na f="c/Carr:Richard_W=" pid="84/317">Richard W. Carr</na>
+</co>
+<co c="0">
+<na f="c/Chandra:Rohit" pid="04/4464">Rohit Chandra</na>
+</co>
+<co c="0">
+<na f="c/Chapin:John" pid="18/2307">John Chapin</na>
+</co>
+<co c="0">
+<na f="c/Chaudhuri:Mainak" pid="34/3071">Mainak Chaudhuri</na>
+</co>
+<co c="0">
+<na f="c/Chesson:Greg" pid="45/3078">Greg Chesson</na>
+</co>
+<co c="-1">
+<na f="c/Chow:Fred_C=" pid="46/2338">Fred C. Chow</na>
+</co>
+<co c="0">
+<na f="c/Connolly:John_W=_D=" pid="93/1466">John W. D. Connolly</na>
+</co>
+<co c="2">
+<na f="d/Davis:Helen" pid="47/6847">Helen Davis</na>
+</co>
+<co c="-1">
+<na f="e/Elmquist:Hilding" pid="76/450">Hilding Elmquist</na>
+</co>
+<co c="0">
+<na f="e/Emer:Joel_S=" pid="73/2231">Joel S. Emer</na>
+</co>
+<co c="0">
+<na f="e/Erlichson:Andrew" pid="35/4583">Andrew Erlichson</na>
+</co>
+<co c="0">
+<na f="f/Fischer:Charles_N=" pid="f/CNFischer">Charles N. Fischer</na>
+</co>
+<co c="-1">
+<na f="f/Flynn:Michael_J=" pid="f/MichaelJFlynn">Michael J. Flynn</na>
+</co>
+<co c="0">
+<na f="f/French:Robert_S=" pid="24/5746">Robert S. French</na>
+</co>
+<co c="0">
+<na f="g/Ganapathi:Mahadevan" pid="07/6911">Mahadevan Ganapathi</na>
+</co>
+<co c="0">
+<na f="g/Gharachorloo:Kourosh" pid="79/3674">Kourosh Gharachorloo</na>
+</co>
+<co c="0">
+<na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na>
+</co>
+<co c="0">
+<na f="g/Gill:John" pid="65/3353">John Gill</na>
+</co>
+<co c="-1">
+<na f="g/Goldberg:Aaron_J=" pid="86/4835">Aaron J. Goldberg</na>
+</co>
+<co c="2">
+<na f="g/Goldschmidt:Stephen_R=" pid="64/6128">Stephen R. Goldschmidt</na>
+</co>
+<co c="0">
+<na f="g/Gopinath:K=" pid="48/2735">K. Gopinath</na>
+</co>
+<co c="0">
+<na f="g/Gross:Thomas_R=" pid="g/ThomasRGross">Thomas R. Gross</na>
+</co>
+<co c="0">
+<na f="g/Gupta:Anoop" pid="g/AnoopGupta">Anoop Gupta</na>
+</co>
+<co c="0">
+<na f="h/Hall:Mary_W=" pid="h/MaryWHall">Mary W. Hall</na>
+</co>
+<co c="0">
+<na f="h/Heinlein:John" pid="73/4137">John Heinlein</na>
+</co>
+<co c="0">
+<na f="h/Heinrich:Mark_A=" pid="06/3163">Mark A. Heinrich</na>
+</co>
+<co c="0">
+<na f="h/Hill:Mark_D=" pid="h/MarkDHill">Mark D. Hill</na>
+</co>
+<co c="0">
+<na f="h/Holt:Chris" pid="72/385">Chris Holt</na>
+</co>
+<co c="0" n="2">
+<na f="h/Horowitz:Mark" pid="h/MarkHorowitz">Mark Horowitz</na>
+<na>Mark A. Horowitz</na>
+</co>
+<co c="0" n="2">
+<na f="h/Hwu:Wen=Mei_W=" pid="03/4630">Wen-Mei W. Hwu</na>
+<na>Wen-mei W. Hwu</na>
+</co>
+<co c="0">
+<na f="j/Joe:Truman" pid="49/239">Truman Joe</na>
+</co>
+<co c="0">
+<na f="j/John:Susan" pid="99/4860">Susan John</na>
+</co>
+<co c="0">
+<na f="j/Jouppi:Norman_P=" pid="j/NormanPJouppi">Norman P. Jouppi</na>
+</co>
+<co c="0">
+<na f="k/Kennedy:Ken" pid="k/KenKennedy">Ken Kennedy</na>
+</co>
+<co c="-1">
+<na f="k/Kieburtz:Richard_B=" pid="k/RBKieburtz">Richard B. Kieburtz</na>
+</co>
+<co c="0">
+<na f="k/Kuskin:Jeffrey" pid="46/262">Jeffrey Kuskin</na>
+</co>
+<co c="0" n="2">
+<na f="l/Lam:Monica_S=" pid="l/MonicaSLam">Monica S. Lam</na>
+<na>Monica Lam 0001</na>
+</co>
+<co c="0">
+<na f="l/Laudon:James" pid="65/336">James Laudon</na>
+</co>
+<co c="0">
+<na f="l/Lenoski:Daniel" pid="31/5891">Daniel Lenoski</na>
+</co>
+<co c="0">
+<na f="l/Leonard:Judson_S=" pid="09/3281">Judson S. Leonard</na>
+</co>
+<co c="0">
+<na f="l/Liao:Shih=Wei" pid="l/ShihWeiLiao">Shih-Wei Liao</na>
+</co>
+<co c="0">
+<na f="m/Masters:Jon" pid="237/5318">Jon Masters</na>
+</co>
+<co c="0">
+<na f="m/Maydan:Dror_E=" pid="16/6427">Dror E. Maydan</na>
+</co>
+<co c="-1">
+<na f="m/McFarling:Scott" pid="64/3382">Scott McFarling</na>
+</co>
+<co c="0">
+<na f="m/Melvin:Stephen_W=" pid="25/4491">Stephen W. Melvin</na>
+</co>
+<co c="-1">
+<na f="m/Mendelsohn:Noah" pid="72/549">Noah Mendelsohn</na>
+</co>
+<co c="1">
+<na f="m/Morrell:J=_K=" pid="38/5254">J. K. Morrell</na>
+</co>
+<co c="0">
+<na f="m/Mowry:Todd_C=" pid="65/4120">Todd C. Mowry</na>
+</co>
+<co c="0">
+<na f="m/Mutlu:Onur" pid="m/OnurMutlu">Onur Mutlu</na>
+</co>
+<co c="0">
+<na f="n/Nakahira:David" pid="89/6688">David Nakahira</na>
+</co>
+<co c="0">
+<na f="n/Nuckolls:Neal" pid="77/2508">Neal Nuckolls</na>
+</co>
+<co c="0">
+<na f="o/Ofelt:David" pid="39/857">David Ofelt</na>
+</co>
+<co c="3">
+<na f="o/Orlitsky:Alon" pid="o/AlonOrlitsky">Alon Orlitsky</na>
+</co>
+<co c="0">
+<na f="p/Patt:Yale_N=" pid="p/YaleNPatt">Yale N. Patt</na>
+</co>
+<co c="0">
+<na f="p/Patterson_0001:David_A=" pid="p/DAPatterson">David A. Patterson 0001</na>
+</co>
+<co c="0">
+<na f="p/Pieper:K=" pid="05/894">K. Pieper</na>
+</co>
+<co c="0">
+<na f="p/Przybylski:Steven_A=" pid="57/5741">Steven A. Przybylski</na>
+</co>
+<co c="0">
+<na f="r/Ranganathan:Parthasarathy" pid="12/6848">Parthasarathy Ranganathan</na>
+</co>
+<co c="0">
+<na f="r/Rosenblum:Mendel" pid="r/MendelRosenblum">Mendel Rosenblum</na>
+</co>
+<co c="0">
+<na f="r/Rothberg:Edward" pid="82/5663">Edward Rothberg</na>
+</co>
+<co c="0" n="2">
+<na f="r/Rowen:Chris" pid="r/ChrisRowen">Chris Rowen</na>
+<na>Christopher Rowen</na>
+</co>
+<co c="0">
+<na f="s/Sarkar:Vivek" pid="s/VivekSarkar">Vivek Sarkar</na>
+</co>
+<co c="0">
+<na f="s/Schnorf:Peter" pid="60/2799">Peter Schnorf</na>
+</co>
+<co c="0">
+<na f="s/Shebanow:Michael" pid="00/5562">Michael Shebanow</na>
+</co>
+<co c="0">
+<na f="s/Simoni:Richard" pid="48/2706">Richard Simoni</na>
+</co>
+<co c="0">
+<na f="s/Singh:Amit_Pal" pid="05/4815">Amit Pal Singh</na>
+</co>
+<co c="0">
+<na f="s/Singh:Jaswinder_Pal" pid="s/JaswinderPalSingh">Jaswinder Pal Singh</na>
+</co>
+<co c="0">
+<na f="s/Smarr:Larry" pid="60/1648">Larry Smarr</na>
+</co>
+<co c="0">
+<na f="s/Soundararajan:Vijayaraghavan" pid="24/53">Vijayaraghavan Soundararajan</na>
+</co>
+<co c="0">
+<na f="s/Steenkiste:Peter" pid="s/PeterSteenkiste">Peter Steenkiste</na>
+</co>
+<co c="0">
+<na f="s/Stevens:Luis" pid="02/4761">Luis Stevens</na>
+</co>
+<co c="0">
+<na f="s/Strong:Alex" pid="95/2985">Alex Strong</na>
+</co>
+<co c="0">
+<na f="t/Thekkath:Radhika" pid="83/6639">Radhika Thekkath</na>
+</co>
+<co c="0">
+<na f="t/Tjiang:Steven_W=_K=" pid="43/169">Steven W. K. Tjiang</na>
+</co>
+<co c="0">
+<na f="t/Torrellas:Josep" pid="t/JosepTorrellas">Josep Torrellas</na>
+</co>
+<co c="0">
+<na f="t/Totsuka:Takashi" pid="04/1874">Takashi Totsuka</na>
+</co>
+<co c="0">
+<na f="t/Tseng:Chau=Wen" pid="t/ChauWenTseng">Chau-Wen Tseng</na>
+</co>
+<co c="0">
+<na f="t/Turner:Paul" pid="91/4811">Paul Turner</na>
+</co>
+<co c="0">
+<na f="v/Verghese:Ben" pid="68/2333">Ben Verghese</na>
+</co>
+<co c="0">
+<na f="v/Vernon:Mary_K=" pid="v/MaryKVernon">Mary K. Vernon</na>
+</co>
+<co c="0">
+<na f="w/Weber:Wolf=Dietrich" pid="21/2538">Wolf-Dietrich Weber</na>
+</co>
+<co c="0">
+<na f="w/Weil:Thierry" pid="45/2262">Thierry Weil</na>
+</co>
+<co c="1">
+<na f="w/Weiner:A=" pid="52/10971">A. Weiner</na>
+</co>
+<co c="0">
+<na f="w/Wilson:Christopher_S=" pid="87/3307">Christopher S. Wilson</na>
+</co>
+<co c="0">
+<na f="w/Wilson:Robert_P=" pid="w/RobertPWilson">Robert P. Wilson</na>
+</co>
+<co c="0">
+<na f="w/Wolf:Michael_E=" pid="02/1821">Michael E. Wolf</na>
+</co>
+<co c="0">
+<na f="w/Wolfe:Andy" pid="169/8646">Andy Wolfe</na>
+</co>
+<co c="0">
+<na f="w/Woo:Steven_Cameron" pid="23/3976">Steven Cameron Woo</na>
+</co>
+<co c="0">
+<na f="y/Yeh:Tse=Yu" pid="57/3918">Tse-Yu Yeh</na>
+</co>
+</coauthors>
+</dblpperson>

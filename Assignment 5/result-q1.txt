@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Summary>
+   <Year>1975</Year>
+   <Count>1</Count>
+   <AverageCoAuthors>0</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1976</Year>
+   <Count>1</Count>
+   <AverageCoAuthors>0</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1978</Year>
+   <Count>3</Count>
+   <AverageCoAuthors>1</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1979</Year>
+   <Count>2</Count>
+   <AverageCoAuthors>2</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1980</Year>
+   <Count>3</Count>
+   <AverageCoAuthors>1</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1981</Year>
+   <Count>4</Count>
+   <AverageCoAuthors>1.25</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1982</Year>
+   <Count>7</Count>
+   <AverageCoAuthors>2.285714285714285714</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1983</Year>
+   <Count>1</Count>
+   <AverageCoAuthors>6</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1984</Year>
+   <Count>2</Count>
+   <AverageCoAuthors>2</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1985</Year>
+   <Count>1</Count>
+   <AverageCoAuthors>0</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1986</Year>
+   <Count>2</Count>
+   <AverageCoAuthors>6</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1987</Year>
+   <Count>2</Count>
+   <AverageCoAuthors>2</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1988</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>3.8</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1989</Year>
+   <Count>4</Count>
+   <AverageCoAuthors>3</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1990</Year>
+   <Count>3</Count>
+   <AverageCoAuthors>1.666666666666666667</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1991</Year>
+   <Count>1</Count>
+   <AverageCoAuthors>0</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1992</Year>
+   <Count>1</Count>
+   <AverageCoAuthors>3</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1993</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>2</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1994</Year>
+   <Count>13</Count>
+   <AverageCoAuthors>3.153846153846153846</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1995</Year>
+   <Count>8</Count>
+   <AverageCoAuthors>2.75</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1996</Year>
+   <Count>4</Count>
+   <AverageCoAuthors>3.25</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1997</Year>
+   <Count>8</Count>
+   <AverageCoAuthors>5.75</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1998</Year>
+   <Count>9</Count>
+   <AverageCoAuthors>2.111111111111111111</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>1999</Year>
+   <Count>7</Count>
+   <AverageCoAuthors>2.571428571428571429</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2000</Year>
+   <Count>4</Count>
+   <AverageCoAuthors>2.5</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2001</Year>
+   <Count>1</Count>
+   <AverageCoAuthors>5</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2002</Year>
+   <Count>9</Count>
+   <AverageCoAuthors>1.222222222222222222</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2003</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>1.2</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2004</Year>
+   <Count>9</Count>
+   <AverageCoAuthors>2.444444444444444444</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2005</Year>
+   <Count>21</Count>
+   <AverageCoAuthors>0.952380952380952381</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2006</Year>
+   <Count>12</Count>
+   <AverageCoAuthors>1.25</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2007</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>2</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2008</Year>
+   <Count>4</Count>
+   <AverageCoAuthors>3.75</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2009</Year>
+   <Count>10</Count>
+   <AverageCoAuthors>4.9</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2010</Year>
+   <Count>13</Count>
+   <AverageCoAuthors>4.461538461538461538</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2011</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>5.6</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2012</Year>
+   <Count>8</Count>
+   <AverageCoAuthors>1.75</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2013</Year>
+   <Count>7</Count>
+   <AverageCoAuthors>3.428571428571428571</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2014</Year>
+   <Count>3</Count>
+   <AverageCoAuthors>5</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2015</Year>
+   <Count>12</Count>
+   <AverageCoAuthors>5.166666666666666667</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2016</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>5.2</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2017</Year>
+   <Count>7</Count>
+   <AverageCoAuthors>24.285714285714285714</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2018</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>2.4</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2019</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>12.4</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2020</Year>
+   <Count>7</Count>
+   <AverageCoAuthors>11.571428571428571429</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2021</Year>
+   <Count>4</Count>
+   <AverageCoAuthors>9.75</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2022</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>8.6</AverageCoAuthors>
+</Summary>
+<Summary>
+   <Year>2023</Year>
+   <Count>5</Count>
+   <AverageCoAuthors>8</AverageCoAuthors>
+</Summary>
